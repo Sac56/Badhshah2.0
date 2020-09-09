@@ -137,8 +137,8 @@ print('\033[1;92m                     Whatsapp:- \033[1;93m+977-9845844301')
 print logo3
 
 #Password#
-CorrectUsername ="Reloaded" #Username
-CorrectPassword ="Version" #Password
+CorrectUsername ="" #Username
+CorrectPassword ="" #Password
 
 loop = 'true'
 while (loop == 'true'):
